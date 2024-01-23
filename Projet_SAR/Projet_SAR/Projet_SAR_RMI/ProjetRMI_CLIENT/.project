@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ProjetRMI_CLIENT</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/img/btn_clear.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/My%20folder/IF4/Semestre%201/SAR/Projet%20SAR/btn_clear.png</locationURI>
+		</link>
+		<link>
+			<name>src/img/emp1.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/My%20folder/IF4/Semestre%201/SAR/Projet%20SAR/emp1.png</locationURI>
+		</link>
+		<link>
+			<name>src/img/emp2.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/My%20folder/IF4/Semestre%201/SAR/Projet%20SAR/emp2.png</locationURI>
+		</link>
+		<link>
+			<name>src/img/project_icon.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/My%20folder/IF4/Semestre%201/SAR/Projet%20SAR/project_icon.png</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
